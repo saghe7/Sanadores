@@ -46,7 +46,7 @@ tenía al comenzar la batalla, sin importar
 cuántas veces sea sanado.
 Debes implementar una función que,
 sabiendo la cantidad de puntos de magia
-de un sanador y los puntos de vida actuales e iniciales de cada uno de n luchadores, así como su distancia al sanador,
+de un sanador y los puntos de vida actuales e iniciales de cada uno de n luchadores, así como su distancia al sanador,
 determine la máxima cantidad posible de
 puntos de vida que es posible recuperar
 en total.
